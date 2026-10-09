@@ -1,0 +1,9 @@
+{
+  "id": "mediapager.search.local",
+  "name": "Local library",
+  "description": "Search provider for content already in your library.",
+  "author": "Nobugsgiven",
+  "types": "search",
+  "sdk": "MediaPager.App.PluginContracts",
+  "sdkVersion": "0.1.0"
+}
